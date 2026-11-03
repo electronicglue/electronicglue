@@ -5,10 +5,11 @@ I do full-stack web development on my own server @\[not public yet] using Python
 > gomugomunopistolposition@gmail.com
 - 💬 DO NOT Ask me about the email name above. 
 
-Feed my passion for flexing my Desmos projects: \n
-https://www.desmos.com/calculator/tmn0bbfioj \n
-https://www.desmos.com/3d/93ggvha4qv \n
-https://www.desmos.com/calculator/utooipgcxb
+Feed my passion for flexing my Desmos projects: \
+https://www.desmos.com/calculator/tmn0bbfioj \
+https://www.desmos.com/3d/93ggvha4qv \
+https://www.desmos.com/calculator/utooipgcxb \
+
 
 If you are experienced with vibecoding and want me to do something for you/ want to do something for me that involves vibecoding, you should consider actually learning something by forking over that dear datacenter of yours to me and helping me turn it into a tiny little simulation of the universe.
 
