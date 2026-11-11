@@ -1,8 +1,8 @@
 ## Hi there 👋
-I do full-stack web development on my own server @\[not public yet] using Python, Javascript, HTML, etc. I also know Desmos, Lua, Java, (some) English (surprising, I know), and (barely) C++.
+I do full-stack web development on my own server using Python, Javascript, HTML, etc. I also know Desmos, Lua, Java, (some) English (surprising, I know), and (barely) C++.
 - Lately, I've been working on a molecular simulation in my free time (which I don't have a lot of D: ).
 - If you know GLSL and want to teach me / write the GLSL (credit will be given of course) that I need in order to use compute shaders to make my sim GPU-accelerated, please contact me at:
-> gomugomunopistolposition@gmail.com
+> photon@photonist.dev
 - 💬 DO NOT Ask me about the email name above. 
 
 Feed my passion for flexing my Desmos projects: \
