@@ -3,7 +3,7 @@ I do full-stack web development on my own server using Python, Javascript, HTML,
 - Lately, I've been working on a molecular simulation in my free time (which I don't have a lot of D: ).
 - If you know GLSL and want to teach me / write the GLSL (credit will be given of course) that I need in order to use compute shaders to make my sim GPU-accelerated, please contact me at:
 > photon@photonist.dev
-- 💬 DO NOT Ask me about the email name above. 
+- 💬 DO NOT Ask me about the name of the email that will reply to you, if you ever contact me through the email above. 
 
 Feed my passion for flexing my Desmos projects: \
 https://www.desmos.com/calculator/tmn0bbfioj \
